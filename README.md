@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src=" https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalahmad709&label=Profile%20views&color=0e75b6&style=flat" alt="bilalahmad709" /> </p>
 
 - 🌱 I’m currently learning **Advance JavaScript(ECMA6), react js**
